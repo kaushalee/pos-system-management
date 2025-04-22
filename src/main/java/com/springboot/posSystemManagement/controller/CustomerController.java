@@ -14,8 +14,7 @@ import org.springframework.web.bind.annotation.*;
 
 //post-200,204
 //put-201,204
-//get,delete-201
-// error -404(not found)
+//get,delete-201 //error -404(not found)
 //200-created
 //201-ok
 //204-no contex
